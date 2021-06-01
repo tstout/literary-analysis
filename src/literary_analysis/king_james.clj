@@ -30,7 +30,7 @@
      (sort-by val)
      (take-last 50))
 
-;; 20 longest words
+;; 30 longest words
 ;------------------
 (->> words
      distinct
